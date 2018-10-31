@@ -1,6 +1,7 @@
 [package]
+authors = ["Bjorn Tipling <bjorn@ambientchill.com>"]
 name = "primes"
 version = "0.1.0"
-authors = ["Bjorn Tipling <bjorn@ambientchill.com>"]
 
 [dependencies]
+clap = "2.32.0"
